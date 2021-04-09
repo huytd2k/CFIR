@@ -4,8 +4,6 @@
 
 Liên tục đổi chỗ 2 phần tử nếu chúng không đúng thứ tự, nếu trong một lần duyệt không cần đổi chỗ phần tử nào => mảng đã được sắp xếp.
 
-Thuật toán sắp xếp ổn định (stable).
-
 ## Độ phức tạp 
 
 - Thời gian:
@@ -13,6 +11,10 @@ Thuật toán sắp xếp ổn định (stable).
   - Trung bình: O(n^2).
   - Tồi nhất: O(n^2).
 - Không gian: O(1)
+
+## Note
+
+- Thuật toán sắp xếp ổn định (stable).
 
 ## Implement (Python)
 

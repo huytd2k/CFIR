@@ -10,8 +10,12 @@ Liên tục tìm kiếm phần tử nhỏ nhất và đẩy lên lên đầu
   - Best case: O( n^2 ) (Luôn phải trarvese mảng ~ n^2 ops)
   - Average case: O(n^2)
   - Worst case: O(n^2)
-
 - Không gian: O(1)
+
+## Note
+
+- Luôn cần ít hơn hoặc bằng n lần swap 2 phần từ => hữu dụng khi thao tác swap tốn kém
+- Không ổn định (Nhưng có thể sửa thuật toán để trở nên ổn định)
 
 ## Implement (Python)
 
