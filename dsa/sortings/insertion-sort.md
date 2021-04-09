@@ -6,7 +6,7 @@ Chia mảng thành 2 phần: phần đã được sắp xếp và phần chưa �
 
 ## Ví dụ
 
-(example)[https://media.geeksforgeeks.org/wp-content/uploads/insertionsort.png]
+![example](https://media.geeksforgeeks.org/wp-content/uploads/insertionsort.png)
 
 ## Độ phức tạp
 
